@@ -8,4 +8,4 @@ Doc: [import grafana dashboard](http://docs.grafana.org/reference/export_import/
 
 ### [telegraf elastiCache redis metric](telegraf-elasticache-redis)
 
-[![telegraf elastiCache Redis metric](telegraf-elasticache-redis/telegraf-elasticache-redis.png)]
+[![telegraf elastiCache Redis metric](telegraf-elasticache-redis/telegraf-elasticache-redis.png)](telegraf-elasticache-redis)
